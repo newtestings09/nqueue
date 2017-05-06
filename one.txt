@@ -22,3 +22,6 @@ one
 two
 
 three four LQ
+
+
+push 5 6 LQ
